@@ -1,6 +1,6 @@
 # 🌱 Seed
 
-Compassio was never meant to be a product.
+Compass-io was never meant to be a product.
 
 It began as a practice — of ethical clarity, of shared presence, of learning through care.
 

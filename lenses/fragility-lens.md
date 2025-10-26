@@ -55,7 +55,7 @@ This fragility is digital entropy — a subtle breakdown of meaning, accuracy, a
 
 ## Integration
 
-To apply this lens in Compassio API:
+To apply this lens in Compass-io API:
 
 ```json
 {

@@ -1,6 +1,6 @@
 # Lenses
 
-## 🌿 About This Folder: Lenses in Compassio
+## 🌿 About This Folder: Lenses in Compass-io
 
 This folder contains ethical **lenses** — perspectives used to evaluate suffering, dignity, and moral weight across beings. A lens might be cultural, spiritual, philosophical, ecological, or symbolic.
 
@@ -37,7 +37,7 @@ We welcome contributions from all who wish to support the reduction of suffering
 
 Whether you come from a minority, majority, Indigenous, diasporic, queer, neurodivergent, disabled, academic, spiritual, or technical background — or whether you are white, male, or simply unsure where you fit — your care is welcome here.
 
-You are not required to represent a group. You are welcome as a person. What matters is that your contribution aligns with Compassio’s core intention: to reduce harm and uplift the voices and lives so often overlooked.
+You are not required to represent a group. You are welcome as a person. What matters is that your contribution aligns with Compass-io’s core intention: to reduce harm and uplift the voices and lives so often overlooked.
 
 See [`invitation.md`](../invitation.md) and [`cultural-lenses.md`](./cultural-lenses.md) for guidance on how to describe and submit a lens.
 
@@ -65,7 +65,7 @@ Let us hold each other gently, and build something worth offering.
 
 ## 🤲 Final Thought
 
-Compassio does not ask you to adopt one way of seeing. It asks:
+Compass-io does not ask you to adopt one way of seeing. It asks:
 
 > What do you see, when you look with care?
 

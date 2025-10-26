@@ -1,10 +1,10 @@
 # Cultural Lenses
 
-## 🌿 Cultural Lenses in Compassio
+## 🌿 Cultural Lenses in Compass-io
 
-Compassio is designed to support a wide range of ethical worldviews — not to enforce a single one. We believe ethical clarity can emerge through respectful plurality, not dominance.
+Compass-io is designed to support a wide range of ethical worldviews — not to enforce a single one. We believe ethical clarity can emerge through respectful plurality, not dominance.
 
-This document describes the importance of cultural lenses in shaping ethical decisions, and how to contribute new ones to Compassio.
+This document describes the importance of cultural lenses in shaping ethical decisions, and how to contribute new ones to Compass-io.
 
 ---
 
@@ -21,7 +21,7 @@ A cultural lens is a perspective shaped by history, worldview, values, spiritual
 
 ## 🌍 The Author's Lens&#x20;
 
-The initial design of Compassio was created through a **Central European, post-industrial lens** — one shaped by values such as:
+The initial design of Compass-io was created through a **Central European, post-industrial lens** — one shaped by values such as:
 
 - Care ethics and dignity
 - Post-war moral reflection
@@ -61,13 +61,13 @@ You can add a cultural lens by describing:
 }
 ```
 
-All lenses must still respect Compassio's core purpose: **to reduce suffering and uphold dignity** across beings.
+All lenses must still respect Compass-io's core purpose: **to reduce suffering and uphold dignity** across beings.
 
 ---
 
 ## 🛡️ Red Lines and Ethical Boundaries
 
-Compassio welcomes a wide range of ethical views. However, it does not support lenses that:
+Compass-io welcomes a wide range of ethical views. However, it does not support lenses that:
 
 - Justify cruelty, torture, or systemic abuse
 - Promote domination or degradation of beings
@@ -82,7 +82,7 @@ This is not to enforce sameness, but to preserve the **conditions for ethical di
 
 Many affected beings — animals, forests, future generations — cannot speak. Yet they deserve ethical presence.
 
-Compassio encourages users to:
+Compass-io encourages users to:
 
 - Include non-human stakeholders using the `scope` and `consultStakeholders()` features
 - Use symbolic, representative, or spiritual means of listening
@@ -94,7 +94,7 @@ If you speak _for_ others, do so with care.
 
 ## 🤝 Final Words
 
-This is an invitation, not a final structure. Compassio longs to become more than it is.
+This is an invitation, not a final structure. Compass-io longs to become more than it is.
 
 You are welcome here.
 

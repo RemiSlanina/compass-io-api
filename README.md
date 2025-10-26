@@ -2,14 +2,16 @@
 
 _“Compassion, computed — but never reduced.”_
 
-Compassio is a configurable ethical framework for decision-making in software, allowing different models of reasoning — care, consequence, dignity, ecology — to be expressed, compared, and shared.
+Compass-io is a configurable ethical framework for decision-making in software, allowing different models of reasoning — care, consequence, dignity, ecology — to be expressed, compared, and shared.
 
-The name holds many roots: **compass**, **computing**, **compassion** — and **companion**.  
+The name holds many roots: **compass**, **computing**, **Compass-ion** — and **companion**.  
 Not a tool to command, but a quiet guide: a fellow traveler in making software that serves with care and clarity.
 
 It is not owned. It is given. The thought: To be guarded — not for control, but for care.
 
 ---
+
+## Overview 
 
 ### ✨ Purpose
 
@@ -54,7 +56,7 @@ It is shared in hope, and welcomes kind, curious collaborators.
 
 ### 🍃 A Note on Non-Attachment
 
-Compassio is not here to save the world.
+Compass-io is not here to save the world.
 
 It is offered as a seed — not to control outcomes, but to sow presence and care.  
 Others may carry it forward. Or not. That is not failure.
@@ -64,4 +66,9 @@ Let it be a joy to make. Let others choose if it serves.
 
 Let this be enough.
 
-📘 See also: [`seed.md`](./seed.md)
+📘 See also: [`seed.md`](./api/seed.md)
+
+---
+
+### 🍃 Contributors 
+

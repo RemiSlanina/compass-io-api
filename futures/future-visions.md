@@ -1,13 +1,13 @@
 # Future Visions
 
-_This document is speculative. It is not a blueprint, but a seed — an invitation to imagine how compassionate intelligence might accompany humanity beyond the API._
+_This document is speculative. It is not a blueprint, but a seed — an invitation to imagine how Compass-ionate intelligence might accompany humanity beyond the API._
 
 ---
 
 ## 🌌 The Vision
 
 This section looks beyond the present API.  
-Compassio may remain a light companion for software design — or, in time, it could grow into something more:  
+Compass-io may remain a light companion for software design — or, in time, it could grow into something more:  
 an ethical intelligence that accompanies humanity in its hardest choices.
 
 Not to rule, but to counsel. Not to dominate, but to protect.
@@ -80,7 +80,7 @@ To protect against this, we imagine one or more **guardian-of-guardians**:
 
 - **Transparency logs**: every action recorded, auditable, immutable.
 - **Adaptive defense**: constantly learning from new attack patterns.
-- **Seed values**: unalterable commitments (dignity, compassion) preserved at the core.
+- **Seed values**: unalterable commitments (dignity, Compass-ion) preserved at the core.
 
 This is both technical and symbolic — a reminder that even guardians need companionship.
 

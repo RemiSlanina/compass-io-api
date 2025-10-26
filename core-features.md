@@ -1,10 +1,10 @@
 # Core Features
 
-## 🌱 Compassio API — Core Features Overview
+## 🌱 Compass-io API — Core Features Overview
 
 _"Compassion, computed — but never reduced."_
 
-Compassio is a modular ethical system designed to help individuals and communities evaluate decisions, systems, and technologies with care, clarity, and flexibility.
+Compass-io is a modular ethical system designed to help individuals and communities evaluate decisions, systems, and technologies with care, clarity, and flexibility.
 
 It empowers contributors — technical or not — to participate in creating ethical tools that adapt to multiple worldviews, protect vulnerable life, and seek repair over domination.
 
@@ -35,7 +35,7 @@ Symbolic - Beings or systems not literally sentient — but treated with meaning
 ### ✨ Future Extensions (Dream List)
 
 - **Memory-aware Decision Trees**: Store reasoning paths and past ethical decisions for transparency and reflection.
-- **Compassion Weight Buffering**: Temporarily soften output in emergencies or trauma contexts.
+- **Compass-ion Weight Buffering**: Temporarily soften output in emergencies or trauma contexts.
 - **Translation Engine**: Translate outputs into different cultural or ethical dialects (e.g. Ubuntu, Buddhist ethics, Indigenous protocols).
 - **Shared Dignity Score**: A single value derived from the least-respected stakeholder in the model — used to highlight blind spots.
 

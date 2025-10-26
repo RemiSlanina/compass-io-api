@@ -2,7 +2,7 @@
 
 #### Overview
 
-The `Compassio API` allows users to select from a range of ethical lenses ("suffering models") to evaluate harm and well-being. Each model determines **what counts as suffering**, **whose suffering counts**, and **how suffering is weighted**. This modular approach supports transparency, user autonomy, and pluralism.
+The `Compass-io API` allows users to select from a range of ethical lenses ("suffering models") to evaluate harm and well-being. Each model determines **what counts as suffering**, **whose suffering counts**, and **how suffering is weighted**. This modular approach supports transparency, user autonomy, and pluralism.
 
 ---
 

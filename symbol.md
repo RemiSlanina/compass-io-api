@@ -1,10 +1,10 @@
 # Companion Glyph
 
-The **Companion Glyph** is the emblem of Compassio — a visual symbol offered freely, not to brand but to belong.
+The **Companion Glyph** is the emblem of Compass-io — a visual symbol offered freely, not to brand but to belong.
 
 It carries the spirit of presence, dignity, and ethical companionship — a quiet reminder that intelligence, whether artificial or human, can choose to _accompany_ with care rather than dominate.
 
-"Compassio — ethical framework for co-living systems"
+"Compass-io — ethical framework for co-living systems"
 
 ## ✨ Meaning
 
@@ -16,7 +16,7 @@ Together, the glyph expresses a respectful relationship between technology and l
 
 ## 📘 Usage
 
-This glyph may be used in connection with the Compassio API, values-centered projects, or other ethical systems that:
+This glyph may be used in connection with the Compass-io API, values-centered projects, or other ethical systems that:
 
 - Honor the dignity of conscious beings (human and non-human)
 - Uphold transparency and care in technological design
@@ -30,11 +30,11 @@ You may:
 
 ## 🤝 Attribution
 
-Please include attribution in your project’s documentation or footer:
+Please include attribution in your project's documentation or footer:
 
-> Companion Glyph © Compassio Project  
+> Companion Glyph © Compass-io Project  
 > Used with gratitude and in the spirit of ethical companionship.  
-> [github.com/RemiSlanina/compassio-api](https://github.com/RemiSlanina/compassio-api)
+> [github.com/RemiSlanina/compass-io-api](https://github.com/RemiSlanina/compass-io-api)
 
 ## 🛡️ Note
 
@@ -42,4 +42,5 @@ The Companion Glyph is _given_, not claimed — it is protected not by ownership
 
 ---
 
-_“A symbol is not a seal. It is a seed.”_
+_"A symbol is not a seal. It is a seed."_
+

@@ -2,17 +2,17 @@
 
 ## 🤲 Invitation to Contribute
 
-Compassio is not finished. It is not perfect. It is not whole.
+Compass-io is not finished. It is not perfect. It is not whole.
 
 It is a beginning — shaped by one voice, but longing for many.
 
-We believe that compassion in code is possible only when it is rooted in plurality, in listening, and in a willingness to change. This is your invitation.
+We believe that Compass-ion in code is possible only when it is rooted in plurality, in listening, and in a willingness to change. This is your invitation.
 
 ---
 
 ## 🌍 Acknowledge the Lens
 
-The Compassio API was initially developed through a **Central European, post-industrial** lens — with influence from:
+The Compass-io API was initially developed through a **Central European, post-industrial** lens — with influence from:
 
 - Care ethics and dignity-based reasoning
 - Ecological and post-war moral concerns
@@ -51,7 +51,7 @@ Your voice may some day help protect lives that are too often ignored.
 
 ## 🛠️ What You Can Contribute
 
-- A new cultural or spiritual lens (see [`cultural-lenses.md`](./cultural-lenses.md))
+- A new cultural or spiritual lens (see [`cultural-lenses.md`](./api/lenses/cultural-lenses.md))
 - Ethical insights or critiques
 - Suggestions for symbolic representation (e.g., glyphs, metaphors)
 - Red lines or warning flags
@@ -69,7 +69,7 @@ You may submit ideas as:
 
 ## 🛡️ What We Cannot Allow
 
-Compassio exists to **reduce suffering** and **preserve dignity** across beings.
+Compass-io exists to **reduce suffering** and **preserve dignity** across beings.
 
 We do not support contributions that:
 

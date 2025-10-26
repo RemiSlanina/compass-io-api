@@ -53,7 +53,7 @@ No being is too small, too strange, or too broken to be respected.
 
 ## Integration
 
-To apply this lens in Compassio API:
+To apply this lens in Compass-io API:
 
 ```json
 {
@@ -71,7 +71,7 @@ The API will then check all outputs for worth-diminishing language or harm towar
     In conflict scenarios, it urges us to ask:
     “Who might be quietly erased here?”
 
-    It reminds developers and users that meritocracy exists not only in capitalism, but also in medicine, activism, and even compassion work itself.
+    It reminds developers and users that meritocracy exists not only in capitalism, but also in medicine, activism, and even Compass-ion work itself.
 
 ## Final Words
 

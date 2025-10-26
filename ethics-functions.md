@@ -2,7 +2,7 @@
 
 ## Overview
 
-The `Compassio API` provides a flexible framework for evaluating the ethical impact of decisions, systems, and technologies. Its goal is to assist individuals and organizations in aligning actions with chosen ethical models, prioritizing the reduction of suffering across a customizable scope of beings — from humans to animals to inanimate entities (animist model).
+The `Compass-io API` provides a flexible framework for evaluating the ethical impact of decisions, systems, and technologies. Its goal is to assist individuals and organizations in aligning actions with chosen ethical models, prioritizing the reduction of suffering across a customizable scope of beings — from humans to animals to inanimate entities (animist model).
 
 Rather than enforcing a single moral perspective, this system empowers users to _choose their ethical framework_, compare outcomes across models, and receive critical alerts when high-risk decisions are identified.
 
@@ -96,7 +96,7 @@ consultStakeholders();
 
 ### `restoreBalance(context)`
 
-Compassion includes repair.
+Compass-ion includes repair.
 If harm was done, start a healing or repair process — socially, environmentally, relationally.
 
 Example:

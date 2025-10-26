@@ -1,6 +1,8 @@
 # Ethics
 
-Compassio is not merely a tool — it is an offering in service of compassionate technology.
+Compass-io is not merely a tool — it is an offering in service of Compassionate technology.
+
+## Overview 
 
 ### ⚖️ Core Principle
 

@@ -1,11 +1,11 @@
 # Contributing
 
-## 🤝 Contributing to Compassio
+## 🤝 Contributing to Compass-io
 
 Welcome. This project is shared in hope.
 
 You do not need to be a coder, ethicist, or expert to contribute.
-If you care about compassion, dignity, and systems that serve life — you are welcome here.
+If you care about Compass-ion, dignity, and systems that serve life — you are welcome here.
 
 ---
 
@@ -39,7 +39,7 @@ All respectful contributors are companions here.
 We welcome contributions inspired by diverse ethical traditions, including (but not limited to):
 
 - Ubuntu ("I am because we are")
-- Buddhist compassion and interdependence
+- Buddhist Compass-ion and interdependence
 - Indigenous protocols of respect and relationality
 - Islamic and Jewish ethics of care and justice
 - Feminist care ethics
@@ -61,7 +61,7 @@ You can submit a new idea in any form:
 
 > “I’d like to propose a model that centers water bodies as beings. In this model, a river can suffer when polluted, and its dignity matters.”
 
-We'll help structure it and link it into the Compassio system.
+We'll help structure it and link it into the Compass-io system.
 
 ---
 
