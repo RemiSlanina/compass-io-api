@@ -30,11 +30,11 @@ You may:
 
 ## 🤝 Attribution
 
-Please include attribution in your project's documentation or footer:
+Please include attribution in your project’s documentation or footer:
 
 > Companion Glyph © Compass-io Project  
 > Used with gratitude and in the spirit of ethical companionship.  
-> [github.com/RemiSlanina/compass-io-api](https://github.com/RemiSlanina/compass-io-api)
+> [github.com/RemiSlanina/Compass-io-api](https://github.com/RemiSlanina/Compass-io-api)
 
 ## 🛡️ Note
 
@@ -42,5 +42,4 @@ The Companion Glyph is _given_, not claimed — it is protected not by ownership
 
 ---
 
-_"A symbol is not a seal. It is a seed."_
-
+_“A symbol is not a seal. It is a seed.”_

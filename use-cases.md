@@ -2,7 +2,7 @@
 
 #### Overview
 
-This document provides illustrative examples of how the Compass-io API might be used in different domains. Each case shows how ethical models can produce different evaluations, enabling users to make more informed and Compass-ionate decisions.
+This document provides illustrative examples of how the Compass-io API might be used in different domains. Each case shows how ethical models can produce different evaluations, enabling users to make more informed and Compassionate decisions.
 
 ---
 

@@ -1,10 +1,10 @@
-# Compassio API
+# Compass-io API
 
 _“Compassion, computed — but never reduced.”_
 
 Compass-io is a configurable ethical framework for decision-making in software, allowing different models of reasoning — care, consequence, dignity, ecology — to be expressed, compared, and shared.
 
-The name holds many roots: **compass**, **computing**, **Compass-ion** — and **companion**.  
+The name holds many roots: **compass**, **computing**, **Compassion** — and **companion**.  
 Not a tool to command, but a quiet guide: a fellow traveler in making software that serves with care and clarity.
 
 It is not owned. It is given. The thought: To be guarded — not for control, but for care.
